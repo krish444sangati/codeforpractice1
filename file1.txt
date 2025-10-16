@@ -4,3 +4,5 @@ abcdef
 xyz
 pqr
 dfjfjfkjjjffj
+def function()
+function()
