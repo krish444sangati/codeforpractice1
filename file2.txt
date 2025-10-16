@@ -7,3 +7,5 @@ mossad
 bgt
 f16
 cia
+def function2(0
+function()
